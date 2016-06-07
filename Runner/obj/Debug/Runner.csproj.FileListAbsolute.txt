@@ -1,0 +1,8 @@
+D:\patterns\Runner\obj\Debug\Runner.csprojResolveAssemblyReference.cache
+D:\patterns\Runner\bin\Debug\Runner.exe.config
+D:\patterns\Runner\bin\Debug\Runner.exe
+D:\patterns\Runner\bin\Debug\Runner.pdb
+D:\patterns\Runner\obj\Debug\Runner.exe
+D:\patterns\Runner\obj\Debug\Runner.pdb
+D:\patterns\Runner\bin\Debug\DynamicVisitor.dll
+D:\patterns\Runner\bin\Debug\DynamicVisitor.pdb

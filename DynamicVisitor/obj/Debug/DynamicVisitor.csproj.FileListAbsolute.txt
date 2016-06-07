@@ -1,0 +1,5 @@
+D:\patterns\DynamicVisitor\bin\Debug\DynamicVisitor.dll.config
+D:\patterns\DynamicVisitor\bin\Debug\DynamicVisitor.dll
+D:\patterns\DynamicVisitor\bin\Debug\DynamicVisitor.pdb
+D:\patterns\DynamicVisitor\obj\Debug\DynamicVisitor.dll
+D:\patterns\DynamicVisitor\obj\Debug\DynamicVisitor.pdb
